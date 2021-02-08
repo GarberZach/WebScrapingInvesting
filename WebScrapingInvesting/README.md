@@ -13,7 +13,7 @@ This project will not run if downloaded as all API credentials have been removed
 
   * data
 
-     This purpose of this subdirectory is to store csv files that contain: index, sentiment score, datetime
+     This purpose of this subdirectory is to store csv files that contain: index, sentiment score, datetime. This information is used in the logic of BackTraderCerebro.py
 
   * AWS_Handler.py
   
